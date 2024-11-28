@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: #f4f4f9;
+}
+
+h1 {
+  color: #333;
+}
+
+textarea {
+  width: 90%;
+  height: 200px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+pre {
+  background: #282c34;
+  color: white;
+  padding: 10px;
+  text-align: left;
+  overflow-x: auto;
+  margin-top: 10px;
+}
